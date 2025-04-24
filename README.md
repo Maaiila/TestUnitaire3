@@ -8,7 +8,7 @@
 composer require --dev phpunit/phpunit
 
 ```
-## Lancement de test
+## Lancement de test avec PHPunit
 
 ![capture](images/tester.png)
 
@@ -17,6 +17,14 @@ composer require --dev phpunit/phpunit
 
 ```
 
+## Lancement de test avec Jest
+
+![capture](images/testjs.png)
+
+```bash
+npm test
+
+```
 
 
 
